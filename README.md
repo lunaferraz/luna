@@ -14,5 +14,5 @@ A materia que eu menos gosto é matematica.</p>
 
 <P>Gosto de assistir filmes e sair,
 meu filme preferido é Donnie Darko e gosto de sair
-para conhecer novos restaurantes ou ir no igapo tomar caldo de cana
-ou apenas tomar ar fresco</P>
+para conhecer novos restaurantes ou ir no igapo tomar caldo de cana. 
+Meu restaurante prefer</P>
