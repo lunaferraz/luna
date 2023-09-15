@@ -15,4 +15,4 @@ A materia que eu menos gosto é matematica.</p>
 <P>Gosto de assistir filmes e sair,
 meu filme preferido é Donnie Darko e gosto de sair
 para conhecer novos restaurantes ou ir no igapo tomar caldo de cana. 
-Meu restaurante prefer</P>
+Meu restaurante preferido é o café com proposito</P>
