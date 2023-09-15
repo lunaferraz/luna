@@ -9,8 +9,8 @@ Moro com a minha mãe, meu padrasto e minhas irmãs.
 Minhas duas irmãs são mais novas, mas tenho uma irmã mais velha por parte de pai</p>
 
 <p>Eu estudo no colegio Hugo Simas no turno matutino,
-na sala do primeiro ano E. Minha materia favorita é geografia.
- A materia que eu menos gosto é matematica</p>
+na sala do primeiro ano E. Minha materia favorita é geografia, principalmente a parte de geopolitica
+A materia que eu menos gosto é matematica.</p>
 
 <P>Gosto de assistir filmes e sair,
 meu filme preferido é Donnie Darko e gosto de sair
